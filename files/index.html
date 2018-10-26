@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Login</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"  />
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/sb-admin.css" rel="stylesheet">
+
+    <!-- Morris Charts CSS -->
+    <link href="css/morris.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="css/custom-gobierno.css" rel="stylesheet">
+
+    <!-- CSS Admin Aporte -->
+    <link href="css/css.afp.css" rel="stylesheet" type="text/css">
+
+    <!-- JS -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <script>
+        $(function() {
+          $('#olvido').popover();
+        })
+    </script>
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="login-body">
+
+    <div class="container">
+        <div id="login" class="well">
+            <div id="cf-gob"><span></span></div>
+            <h1>Panel de Administración <br />Aporte Familiar Permanente</h1>
+            <form action="consulta.html">
+                    <input type="text" placeholder="Usuario" name="usuario" class="form-control" id="usuario" />
+                    <input type="password" class="form-control" placeholder="Contraseña" name="password" >
+                    <div class="g-recaptcha" data-sitekey="6LdmcP8SAAAAAPmV7EJfRHCnQVuArxc2uYWYEy0m" style="display:none;"></div>
+                    <div class="alert alert-warning alert-dismissible" role="alert" style="display:none;">
+                      <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                      <strong>¡Alerta!</strong> No se puede acceder al sistema.
+                    </div>
+                    <div class="alert alert-danger alert-dismissible" role="alert" style="display:none;" id="errorMsg">
+                      <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                      <strong>¡Error! </strong><span id="errorMsgText"></span> 
+                    </div>
+                    <input type="checkbox" id="aceptarTerminos">Acepto los términos y condiciones para ingresar.<br>
+                    <a href="javascript:void(0);" id="olvido" data-trigger="focus" data-toggle="popover" title="Recuperar contraseña" data-placement="top" data-content="Para recuperar su contraseña, diríjase a la Mesa de Ayuda o llame al 600 600 600">¿Olvidó su contraseña?</a>&nbsp;
+                    <input type="submit" value="Ingresar" class="btn btn-success" onClick="javascript:return app.validateLogin();"></input>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
