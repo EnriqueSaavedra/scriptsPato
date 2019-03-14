@@ -1,0 +1,12 @@
+2019-03-05_11-33-56 - info: ------------------------------------------------------------------------------------
+2019-03-05_11-33-56 - info: -----------Iniciando la ejecución del test pagar_solicitudes_script_caso1 ----------
+2019-03-05_11-35-17 - info: La prueba finalizó con éxito
+2019-03-05_11-35-25 - info: ------------------------------------------------------------------------------------
+2019-03-05_11-35-25 - info: -----------Iniciando la ejecución del test pagar_solicitudes_script_caso2 ----------
+2019-03-05_11-36-37 - info: La prueba finalizó con éxito
+2019-03-05_11-36-45 - info: ------------------------------------------------------------------------------------
+2019-03-05_11-36-45 - info: -----------Iniciando la ejecución del test pagar_solicitudes_script_caso3 ----------
+2019-03-05_11-37-48 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //button[contains(.,'Firmar Sin Token')]
+2019-03-05_13-21-27 - info: ------------------------------------------------------------------------------------
+2019-03-05_13-21-27 - info: -----------Iniciando la ejecución del test pagar_solicitudes_script_caso3 ----------
+2019-03-05_13-22-55 - info: La prueba finalizó con éxito

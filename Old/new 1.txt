@@ -1,2 +1,0 @@
-//driver.findElement(By.xpath("//*[@name='identificador']")).sendKeys('96838800-2');
-//driver.findElement(By.xpath("//*[@name='razonSocial']")).sendKeys('PHARMA BENEFITS CHILE');

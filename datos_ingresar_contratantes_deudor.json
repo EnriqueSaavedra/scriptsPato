@@ -1,0 +1,13 @@
+[
+{ "user" : "capa1", "pass" : "123123" },
+{ "rut" : "18247021K", "nombres" : "ENRIQUE HERNÁN", "apellidoPaterno" : "SAAVEDRA",  "apellidoMaterno" : "PÉREZ" },
+{ "rut" : "18247021K", "nombres" : "ENRIQUE HERNÁN", "apellidoPaterno" : "CAMPOS",    "apellidoMaterno" : "PÉREZ" },
+{ "rut" : "1-9",        "nombres" : "1234",           "apellidoPaterno" : "(/&%$",     "apellidoMaterno" : "&&&%" },
+{ "rut" : "770637708",  "razonSocial" : "PRAGMA INFORMATICA S.A." },
+{ "rut" : "154315454",  "razonSocial" : "" },
+{ "rut" : "",  "razonSocial" : "PRAGMA INFORMATICA S.A." },
+{ "identificador" : "", "nombres" : "yessi reeves" },
+{ "identificador" : "135790", "nombres" : "yessi reeves" },
+{ "identificador" : "135790", "nombres" : "yessi reeves" },
+{ "rut" : "770637708",  "razonSocial" : "INFORMATICA S.A." }
+]

@@ -1,0 +1,10 @@
+[
+{ "user" : "capa1", "pass" : "123123" },
+{ "rut" : "18247021K",  "nombres" : "ENRIQUE HERNÁN", "apellidoPaterno" : "SAAVEDRA",  "apellidoMaterno" : "PÉREZ" },
+{ "rut" : "226206108", "nombres" : "JAIME ROLANDO", "apellidoPaterno" : "MAQUERA",  "apellidoMaterno" : "MEZA"  },
+{ "rut" : "226206108", "nombres" : "JAIME ROLANDO", "apellidoPaterno" : "MAQUERA",  "apellidoMaterno" : "MEZA"  },
+{ "numeroRepertorioNotaria" : "125513", "agnoRepertorioNotaria" : "2019", "fechaOtorgamiento" : "08/02/2019", "fechaSuscripcion" : "08/02/2019" },
+{ "numeroRepertorioNotaria" : "125514", "agnoRepertorioNotaria" : "2019", "fechaOtorgamiento" : "08/02/2019", "fechaSuscripcion" : "08/02/2019" },
+{ "contrato" : "C:\\Selenium_test\\scripts\\archivos\\966943009.pdf" },
+{ "m2" :       "C:\\Selenium_test\\scripts\\archivos\\m2.xml" }
+]

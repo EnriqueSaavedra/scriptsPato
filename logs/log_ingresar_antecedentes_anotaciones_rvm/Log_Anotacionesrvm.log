@@ -1,0 +1,15 @@
+2019-03-05_10-50-32 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-50-32 - info: -Iniciando la ejecución del test Ingresar_antecedentes_anotaciones_RVM_script_caso1-
+2019-03-05_10-51-01 - info: La prueba finalizó con éxito
+2019-03-05_10-51-09 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-51-09 - info: -Iniciando la ejecución del test Ingresar_antecedentes_anotaciones_RVM_script_caso2-
+2019-03-05_10-51-43 - info: La prueba finalizó con éxito
+2019-03-05_10-51-51 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-51-51 - info: -Iniciando la ejecución del test Ingresar_antecedentes_anotaciones_RVM_script_caso3-
+2019-03-05_10-52-18 - error: El test ha encontrado errores: StaleElementReferenceError: The element reference of <div class="x-grid3-cell-inner x-grid3-col-patente"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+2019-03-05_10-52-24 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-52-24 - info: -Iniciando la ejecución del test Ingresar_antecedentes_anotaciones_RVM_script_caso4-
+2019-03-05_10-52-55 - info: La prueba finalizó con éxito
+2019-03-05_13-06-44 - info: ------------------------------------------------------------------------------------
+2019-03-05_13-06-44 - info: -Iniciando la ejecución del test Ingresar_antecedentes_anotaciones_RVM_script_caso3-
+2019-03-05_13-07-17 - info: La prueba finalizó con éxito

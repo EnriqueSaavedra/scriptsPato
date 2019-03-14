@@ -1,0 +1,652 @@
+2019-03-12_11-26-41 - info: ------------------------------------------------------------------------------------
+2019-03-12_11-26-41 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_11-28-31 - info: ------------------------------------------------------------------------------------
+2019-03-12_11-28-31 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_11-30-11 - error: El test ha encontrado errores: Pestaña constituyente: Fallo la validación de persona natural.
+2019-03-12_11-30-29 - info: ------------------------------------------------------------------------------------
+2019-03-12_11-30-29 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_11-32-30 - error: El test ha encontrado errores: WebDriverError: Element <button id="ext-gen222" class=" x-btn-text icon-firmar" type="button"> is not clickable at point (224,613) because another element <div id="ext-gen529" class="ext-el-mask"> obscures it
+2019-03-12_11-34-08 - info: ------------------------------------------------------------------------------------
+2019-03-12_11-34-08 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_11-35-18 - error: El test ha encontrado errores: WebDriverError: Element <button id="ext-gen222" class=" x-btn-text icon-firmar" type="button"> is not clickable at point (224,613) because another element <div id="ext-gen530" class="ext-el-mask"> obscures it
+2019-03-12_11-35-30 - info: ------------------------------------------------------------------------------------
+2019-03-12_11-35-30 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_11-35-42 - error: El test ha encontrado errores: NoSuchWindowError: Browsing context has been discarded
+2019-03-12_11-53-34 - info: ------------------------------------------------------------------------------------
+2019-03-12_11-53-34 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_11-55-03 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: *[id="INGRESAR_INSCRIPCION"]
+2019-03-12_12-27-03 - info: ------------------------------------------------------------------------------------
+2019-03-12_12-27-03 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_12-29-03 - error: El test ha encontrado errores: TimeoutError: No apareció el campo user.
+Wait timed out after 10003ms
+2019-03-12_12-38-10 - info: ------------------------------------------------------------------------------------
+2019-03-12_12-38-10 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_12-40-00 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //button[contains(.,'Siguiente')]
+2019-03-12_12-40-54 - info: ------------------------------------------------------------------------------------
+2019-03-12_12-40-54 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_12-42-03 - error: El test ha encontrado errores: TimeoutError: No apareció el botón SI.
+Wait timed out after 5001ms
+2019-03-12_12-42-20 - info: ------------------------------------------------------------------------------------
+2019-03-12_12-42-20 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_12-44-20 - error: El test ha encontrado errores: TimeoutError: No apareció el campo user.
+Wait timed out after 10000ms
+2019-03-12_13-05-25 - info: ------------------------------------------------------------------------------------
+2019-03-12_13-05-25 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_13-06-33 - error: El test ha encontrado errores: TimeoutError: No apareció el botón SI.
+Wait timed out after 5014ms
+2019-03-12_13-07-01 - info: ------------------------------------------------------------------------------------
+2019-03-12_13-07-01 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_13-08-01 - error: El test ha encontrado errores: WebDriverError: Failed to decode response from marionette
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: Tried to run command without establishing a connection
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-02 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-03 - error: El test ha encontrado errores: NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+2019-03-12_13-08-48 - info: ------------------------------------------------------------------------------------
+2019-03-12_13-08-48 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_13-10-41 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: /html/body/div[3]/div/div/div[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div[1]/div/table/thead/tr/td[8] 
+2019-03-12_13-11-24 - info: ------------------------------------------------------------------------------------
+2019-03-12_13-11-24 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_13-12-33 - error: El test ha encontrado errores: TimeoutError: No apareció el botón SI.
+Wait timed out after 5001ms
+2019-03-12_13-12-53 - info: ------------------------------------------------------------------------------------
+2019-03-12_13-12-53 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_13-14-50 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //button[contains(.,'Terminar')]
+2019-03-12_14-38-24 - info: ------------------------------------------------------------------------------------
+2019-03-12_14-38-24 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_14-40-23 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //button[contains(.,'Terminar')]
+2019-03-12_14-42-27 - info: ------------------------------------------------------------------------------------
+2019-03-12_14-42-27 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_14-44-29 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //button[contains(.,'Terminar')]
+2019-03-12_14-46-24 - info: ------------------------------------------------------------------------------------
+2019-03-12_14-46-24 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_14-48-25 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //button[contains(.,'Terminar')]
+2019-03-12_14-50-19 - info: ------------------------------------------------------------------------------------
+2019-03-12_14-50-19 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_14-52-31 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //*[@id="ext-gen874"]
+2019-03-12_14-54-24 - info: ------------------------------------------------------------------------------------
+2019-03-12_14-54-24 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_14-56-44 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: *[name="apellidoPaterno"]
+2019-03-12_15-14-58 - info: ------------------------------------------------------------------------------------
+2019-03-12_15-14-58 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_15-17-13 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: *[name="apellidoPaterno"]
+2019-03-12_15-19-27 - info: ------------------------------------------------------------------------------------
+2019-03-12_15-19-27 - info: Iniciando ejecución script flujo_inscripcion_actuacion_f2.js
+2019-03-12_15-21-51 - info: La prueba finalizó con éxito

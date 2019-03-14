@@ -1,0 +1,12 @@
+2019-03-05_11-12-19 - info: ------------------------------------------------------------------------------------
+2019-03-05_11-12-19 - info: --------------Iniciando la ejecución del test enviar_firma_script_caso1-------------
+2019-03-05_11-13-17 - info: La prueba finalizó con éxito
+2019-03-05_11-13-26 - info: ------------------------------------------------------------------------------------
+2019-03-05_11-13-26 - info: --------------Iniciando la ejecución del test enviar_firma_script_caso2-------------
+2019-03-05_11-14-33 - error: El test ha encontrado errores: WebDriverError: Element <td class="x-grid3-hd x-grid3-cell x-grid3-td-7 "> is not clickable at point (491,126) because another element <div id="ext-gen652" class="ext-el-mask"> obscures it
+2019-03-05_11-14-39 - info: ------------------------------------------------------------------------------------
+2019-03-05_11-14-39 - info: --------------Iniciando la ejecución del test enviar_firma_script_caso3-------------
+2019-03-05_11-15-52 - info: La prueba finalizó con éxito
+2019-03-05_13-13-05 - info: ------------------------------------------------------------------------------------
+2019-03-05_13-13-05 - info: --------------Iniciando la ejecución del test enviar_firma_script_caso2-------------
+2019-03-05_13-14-15 - info: La prueba finalizó con éxito

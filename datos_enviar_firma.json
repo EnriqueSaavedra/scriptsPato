@@ -1,0 +1,9 @@
+[
+{ "user" : "capa1", "pass" : "123123" },
+{ "rut" : "969382008", "razonSocial" : "ALIMEX S.A." },
+{ "rut" : "966943009", "razonSocial" : "EMPRESAS TORRE S.A." },
+{ "rut" : "966943009", "razonSocial" : "EMPRESAS TORRE S.A." },
+{ "numeroRepertorioNotaria" : "123060", "agnoRepertorioNotaria" : "2019", "fechaOtorgamiento" : "30/01/2019", "fechaSuscripcion" : "30/01/2019" },
+{ "numeroRepertorioNotaria" : "123061", "agnoRepertorioNotaria" : "2019", "fechaOtorgamiento" : "30/01/2019", "fechaSuscripcion" : "30/01/2019" },
+{ "contrato" : "C:\\Selenium_test\\scripts\\archivos\\966943009.pdf" }
+]

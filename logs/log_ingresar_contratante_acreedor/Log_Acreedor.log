@@ -1,0 +1,70 @@
+2019-03-05_10-16-53 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-16-53 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso1-----
+2019-03-05_10-17-11 - info: La prueba finalizó con éxito
+2019-03-05_10-17-19 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-17-19 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso2-----
+2019-03-05_10-17-36 - info: La prueba finalizó con éxito
+2019-03-05_10-17-45 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-17-45 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso3-----
+2019-03-05_10-18-02 - info: La prueba finalizó con éxito
+2019-03-05_10-18-11 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-18-11 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso4-----
+2019-03-05_10-18-25 - info: La prueba finalizó con éxito
+2019-03-05_10-18-34 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-18-34 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso5-----
+2019-03-05_10-18-47 - info: La prueba finalizó con éxito
+2019-03-05_10-18-55 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-18-55 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso6-----
+2019-03-05_10-19-08 - info: La prueba finalizó con éxito
+2019-03-05_10-19-17 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-19-17 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso7-----
+2019-03-05_10-19-31 - info: La prueba finalizó con éxito
+2019-03-05_10-19-43 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-19-43 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso7-1---
+2019-03-05_10-19-58 - info: La prueba finalizó con éxito
+2019-03-05_10-20-07 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-20-07 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso8-----
+2019-03-05_10-20-22 - info: La prueba finalizó con éxito
+2019-03-05_10-20-30 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-20-30 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso9-----
+2019-03-05_10-20-59 - error: El test ha encontrado errores: NoSuchElementError: Unable to locate element: //div[contains(text(),'PRAGMA S.A.')]
+2019-03-05_10-21-06 - info: ------------------------------------------------------------------------------------
+2019-03-05_10-21-06 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso10----
+2019-03-05_10-21-28 - info: La prueba finalizó con éxito
+2019-03-05_12-56-49 - info: ------------------------------------------------------------------------------------
+2019-03-05_13-02-19 - info: ------------------------------------------------------------------------------------
+2019-03-05_13-02-19 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso9-----
+2019-03-05_13-02-49 - info: La prueba finalizó con éxito
+2019-03-05_14-48-24 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-48-24 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso1-----
+2019-03-05_14-48-44 - info: La prueba finalizó con éxito
+2019-03-05_14-48-55 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-48-55 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso2-----
+2019-03-05_14-49-13 - info: La prueba finalizó con éxito
+2019-03-05_14-49-23 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-49-23 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso3-----
+2019-03-05_14-49-41 - info: La prueba finalizó con éxito
+2019-03-05_14-49-51 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-49-51 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso4-----
+2019-03-05_14-50-05 - info: La prueba finalizó con éxito
+2019-03-05_14-50-16 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-50-16 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso5-----
+2019-03-05_14-50-30 - info: La prueba finalizó con éxito
+2019-03-05_14-50-45 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-50-45 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso6-----
+2019-03-05_14-50-58 - info: La prueba finalizó con éxito
+2019-03-05_14-51-08 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-51-08 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso7-----
+2019-03-05_14-51-23 - info: La prueba finalizó con éxito
+2019-03-05_14-51-33 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-51-33 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso7-1---
+2019-03-05_14-51-49 - info: La prueba finalizó con éxito
+2019-03-05_14-51-59 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-51-59 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso8-----
+2019-03-05_14-52-14 - info: La prueba finalizó con éxito
+2019-03-05_14-52-23 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-52-23 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso9-----
+2019-03-05_14-52-54 - info: La prueba finalizó con éxito
+2019-03-05_14-53-07 - info: ------------------------------------------------------------------------------------
+2019-03-05_14-53-07 - info: -----Iniciando la ejecución del test ingresar_contratante_acreedor_script_caso10----
+2019-03-05_14-53-30 - info: La prueba finalizó con éxito
